@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Maulana Ibrahimmovic</h1>
 <h3 align="center">A passionate Software Engineering from Indonesia</h3>
 
 - 🔭 I’m currently working on [Personal Portfolio Website](https://github.com/maulnaaibra)
