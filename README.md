@@ -25,6 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://linkedin.com/in/mmaulanaibrahimmovic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mmaulanaibrahimmovic" height="30" width="40" /></a>
 <a href="https://instagram.com/maulnaaibra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maulnaaibra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczti7jafibsonnehjbohtjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczti7jafibsonnehjbohtjw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
